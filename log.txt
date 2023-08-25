@@ -1,1 +1,2 @@
 0009. ✨ feat: enable dark mode toggle
+0353. ♻️ chore: rename env.example
