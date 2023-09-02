@@ -1,3 +1,4 @@
 0009. ✨ feat: enable dark mode toggle
 0353. ♻️ chore: rename env.example
 0054. ♻️ chore: update .gitignore
+0053. ✅ test: increase coverage on auth module
