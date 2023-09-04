@@ -3,3 +3,4 @@
 0054. ♻️ chore: update .gitignore
 0053. ✅ test: increase coverage on auth module
 0482. ✨ feat: add export to CSV option
+0182. 🔧 refactor: remove redundant code blocks
