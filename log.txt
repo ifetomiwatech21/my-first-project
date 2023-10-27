@@ -15,3 +15,4 @@
 0002. 🚀 perf: cache repeated calculations
 0617. ✨ feat: support email verification
 0122. ✨ feat: support email verification
+0218. 🔧 refactor: clean up auth middleware
