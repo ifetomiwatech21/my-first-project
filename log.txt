@@ -28,3 +28,4 @@
 0823. ✨ feat: add user authentication
 0915. 🚀 perf: cache repeated calculations
 0824. 🚀 perf: lazy-load components
+0993. ✨ feat: implement quiz timer feature
