@@ -36,3 +36,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0458. ✨ feat: create admin dashboard
 0236. 🔧 refactor: remove redundant code blocks
+0630. 🚀 perf: lazy-load components
