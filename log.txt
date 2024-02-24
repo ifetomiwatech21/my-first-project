@@ -38,3 +38,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0630. 🚀 perf: lazy-load components
 0608. 🔧 refactor: remove redundant code blocks
+0513. ♻️ chore: bump dependencies
