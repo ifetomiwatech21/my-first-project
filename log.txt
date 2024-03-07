@@ -43,3 +43,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0473. 📚 docs: write FAQ section
 0623. 🎨 style: standardize quote style
+0180. ✨ feat: add export to CSV option
