@@ -44,3 +44,4 @@
 0473. 📚 docs: write FAQ section
 0623. 🎨 style: standardize quote style
 0180. ✨ feat: add export to CSV option
+0134. ✨ feat: implement quiz timer feature
