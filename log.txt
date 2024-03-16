@@ -45,3 +45,4 @@
 0623. 🎨 style: standardize quote style
 0180. ✨ feat: add export to CSV option
 0134. ✨ feat: implement quiz timer feature
+0366. 🔧 refactor: remove redundant code blocks
