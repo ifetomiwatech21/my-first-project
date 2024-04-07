@@ -50,3 +50,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0835. 🐛 fix: prevent crash on empty input
 0794. ♻️ chore: clean up unused files
+0799. ♻️ chore: clean up unused files
