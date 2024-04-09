@@ -51,3 +51,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0794. ♻️ chore: clean up unused files
 0799. ♻️ chore: clean up unused files
+0671. 🐛 fix: fix null pointer exception on login
