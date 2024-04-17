@@ -53,3 +53,4 @@
 0799. ♻️ chore: clean up unused files
 0671. 🐛 fix: fix null pointer exception on login
 0474. ✅ test: add unit test for quiz service
+0558. ✨ feat: enable dark mode toggle
