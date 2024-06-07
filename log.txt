@@ -66,3 +66,4 @@
 0884. 📚 docs: clarify environment setup
 0863. 🐛 fix: correct typo in registration form
 0588. 🔧 refactor: organize models into subfolders
+0219. ✅ test: increase coverage on auth module
