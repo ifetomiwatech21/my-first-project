@@ -69,3 +69,4 @@
 0219. ✅ test: increase coverage on auth module
 0819. 🚀 perf: reduce image load time
 0977. 🔧 refactor: organize models into subfolders
+0518. ✨ feat: support email verification
