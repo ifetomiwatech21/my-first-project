@@ -70,3 +70,4 @@
 0819. 🚀 perf: reduce image load time
 0977. 🔧 refactor: organize models into subfolders
 0518. ✨ feat: support email verification
+0694. 🎨 style: rename variables for clarity
