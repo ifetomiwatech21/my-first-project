@@ -72,3 +72,4 @@
 0518. ✨ feat: support email verification
 0694. 🎨 style: rename variables for clarity
 0465. 🎨 style: rename variables for clarity
+0888. 🚀 perf: lazy-load components
