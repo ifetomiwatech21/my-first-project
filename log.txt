@@ -86,3 +86,4 @@
 0536. ✨ feat: add user authentication
 0853. 🔧 refactor: refactor quiz grading logic
 0062. ♻️ chore: update .gitignore
+0107. 🐛 fix: prevent crash on empty input
