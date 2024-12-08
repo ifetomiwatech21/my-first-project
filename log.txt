@@ -107,3 +107,4 @@
 0722. 📚 docs: add API usage examples
 0914. ✅ test: test user registration edge cases
 0509. ♻️ chore: bump dependencies
+0995. ✅ test: mock database connection in test suite
