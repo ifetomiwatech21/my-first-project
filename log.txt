@@ -111,3 +111,4 @@
 0242. ♻️ chore: clean up unused files
 0293. ✅ test: add integration test for /submit endpoint
 0499. 🎨 style: reformat files with black
+0703. 🔧 refactor: clean up auth middleware
