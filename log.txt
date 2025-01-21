@@ -117,3 +117,4 @@
 0820. 📚 docs: add API usage examples
 0424. ✨ feat: add user authentication
 0471. ✨ feat: support email verification
+0785. ✨ feat: enable dark mode toggle
