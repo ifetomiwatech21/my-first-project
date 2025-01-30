@@ -119,3 +119,4 @@
 0471. ✨ feat: support email verification
 0785. ✨ feat: enable dark mode toggle
 0601. ✨ feat: implement quiz timer feature
+0170. ✅ test: increase coverage on auth module
