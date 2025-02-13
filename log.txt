@@ -123,3 +123,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0137. 🎨 style: rename variables for clarity
 0527. 🎨 style: remove trailing whitespace
+0206. 🐛 fix: handle 500 error in quiz API
