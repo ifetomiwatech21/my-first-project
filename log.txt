@@ -132,3 +132,4 @@
 0519. 📚 docs: document token refresh logic
 0066. 🔧 refactor: clean up auth middleware
 0944. ✨ feat: add user authentication
+0246. ✅ test: add integration test for /submit endpoint
