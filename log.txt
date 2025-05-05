@@ -143,3 +143,4 @@
 0172. 📚 docs: add API usage examples
 0761. ✅ test: add unit test for quiz service
 0288. 🔧 refactor: refactor quiz grading logic
+0361. ✨ feat: support email verification
