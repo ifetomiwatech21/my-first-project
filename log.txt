@@ -145,3 +145,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0361. ✨ feat: support email verification
 0665. ♻️ chore: update .gitignore
+0051. ✨ feat: enable dark mode toggle
