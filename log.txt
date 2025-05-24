@@ -148,3 +148,4 @@
 0051. ✨ feat: enable dark mode toggle
 0042. 📚 docs: document token refresh logic
 0410. 🎨 style: reformat files with black
+0526. ✨ feat: add user authentication
