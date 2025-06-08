@@ -151,3 +151,4 @@
 0526. ✨ feat: add user authentication
 0812. 🔧 refactor: refactor quiz grading logic
 0093. ✅ test: add unit test for quiz service
+0967. ♻️ chore: add GitHub actions badge
