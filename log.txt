@@ -159,3 +159,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0140. 🐛 fix: handle 500 error in quiz API
 0637. 🎨 style: apply consistent indentation
+0074. ♻️ chore: add GitHub actions badge
