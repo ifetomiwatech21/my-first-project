@@ -177,3 +177,4 @@
 0092. 🚀 perf: reduce image load time
 0636. ✅ test: increase coverage on auth module
 0649. 📚 docs: update README with setup steps
+0562. 🔧 refactor: clean up auth middleware
