@@ -181,3 +181,4 @@
 0230. ✨ feat: create admin dashboard
 0078. ♻️ chore: update .gitignore
 0672. 🐛 fix: fix broken CSS in mobile view
+0860. 🔧 refactor: organize models into subfolders
