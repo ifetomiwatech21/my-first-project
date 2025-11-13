@@ -189,3 +189,4 @@
 0719. 🎨 style: apply consistent indentation
 0377. ✨ feat: add user authentication
 0923. ✨ feat: support email verification
+0708. ✅ test: add integration test for /submit endpoint
